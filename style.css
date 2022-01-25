@@ -1,0 +1,69 @@
+/* HEADER */
+.header {
+    padding: 1em;
+    width: 100%;
+    background: whitesmoke;
+    color: black;
+    font-size: 75px;
+    text-align: center;
+  }
+  
+  a:link {
+    text-decoration: none;
+    color: black;
+  }
+  a:visited {
+    text-decoration: none;
+    color: black;
+  }
+  a:hover {
+    text-decoration: none;
+    color: darkgrey;
+  }
+  a:active {
+    text-decoration: none;
+    color: black;
+  }
+  
+  /* BODY */
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background: black;
+    }
+  
+  h2 {
+    color: #fff;
+  }
+  
+  /*
+    nav a {
+      padding: 10px;
+      background-color: grey;
+    }
+    figcaption {
+      font-size: 50%;
+    }
+    #featured-property > p {
+      width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    #details > div {
+      float: left
+    }
+    section > div {
+      background-color: red;
+      width: 25%;
+    }
+  
+  //alt. hues
+  Blues
+  #c0c0c0 
+  #007ba7
+  
+  pink
+  ffced3
+  
+*/
